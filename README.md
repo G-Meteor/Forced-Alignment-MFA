@@ -8,7 +8,7 @@
 
 mfa model download acoustic mandarin
 
-若上述指令安装失败，可在与训练模型找到普通话（Mandarin），链接在这里Pretrained acoustic models — Montreal Forced Aligner 2.0.0 documentation
+若上述指令安装失败，可在与训练模型找到普通话（Mandarin），链接在这里[Pretrained acoustic models — Montreal Forced Aligner 2.0.0 documentation](https://mfa-models.readthedocs.io/en/latest/acoustic/index.html)
 
 ![image](https://user-images.githubusercontent.com/49120307/163780314-7f918c8a-64a5-4641-b799-f704dbf84022.png)
 
