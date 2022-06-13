@@ -1,2 +1,2 @@
-# Forced-Alignment-MFA
-Forced Alignment-MFA
+# 字典 mandarin
+
