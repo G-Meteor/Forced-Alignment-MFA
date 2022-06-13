@@ -4,7 +4,7 @@
 
 1、第一件事是把MFA安装好，Installation — Montreal Forced Aligner 2.0.0 documentation，Mac，Linux，Windows都可以用。
 
-2、安装预训练模型：
+2、安装预训练模型：(下载好的字典mandarin.zip在master分支)
 
 mfa model download acoustic mandarin
 
